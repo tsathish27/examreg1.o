@@ -1,0 +1,7 @@
+[
+    {
+        "username": "hod",
+        "password": "$2b$10$ZfY57H3UjNT3CrJ8hH8HReO/1g/xwOZ8QgQxhH2lgB4A0JkO39x6e",  // bcrypt hash of 'password'
+        "role": "hod"
+    }
+]
